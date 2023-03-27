@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">signup</string>
+    <string name="signup">Signup</string>
+    <string name="fullname">Full Name</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string-array name="country">
+        <item>Nepal</item>
+        <item>China</item>
+        <item>India</item>
+    </string-array>
+</resources>
